@@ -24,3 +24,7 @@ A Java console-based application developed as part of the CodeAlpha Internship.
 
 2. Run:
    java StudentGradeTracker
+## Author
+Pavithran G  
+B.E. Computer Science and Engineering  
+RMK Engineering College  
